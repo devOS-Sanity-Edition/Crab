@@ -11,5 +11,4 @@ package tanuki_engine.crab;
  * Once again, DO NOT REMOVE THIS CLASS.
  */
 public class Crab {
-	// 🦀
 }
