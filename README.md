@@ -10,7 +10,7 @@ Please read the Crab file of your respective language, and bow down to our god.
 1. Have the file import a Crab package.
 2. Have the Crab description of doom.
 3. Start the function of Crab.
-4. Function must have the crab in there commented out.
+4. Class must have the crab in there commented out.
 5. Absolutely nothing destructive please. Unless it is for the glory of crab. /j
 6. Crab 🦀
 
