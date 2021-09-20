@@ -1,2 +1,2 @@
 # Crab 🦀
-Please read the Crab.java file, and bow down to our god.
+Please read the Crab file of your respective language file, and bow down to our god.
