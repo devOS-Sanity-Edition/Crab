@@ -7,12 +7,12 @@ Please read the Crab file of your respective language, and bow down to our god.
 3. Crab 🦀
 
 ## General Rules
-1. Have the file import a Crab package
-2. Have the Crab description of doom
-3. Start the function of Crab
+1. Have the file import a Crab package.
+2. Have the Crab description of doom.
+3. Start the function of Crab.
 4. Function must have the crab in there commented out.
-5. Absolutely nothing destructive please
+5. Absolutely nothing destructive please.
 
 ## Milestone
-1. All programing languages have crab
+1. All programing languages have crab.
 2. Crab 🦀
