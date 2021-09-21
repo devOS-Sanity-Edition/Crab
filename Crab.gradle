@@ -8,7 +8,14 @@
  * expect you to go next, followed by the rest of humanity, and finally all of reality.
  * Once again, DO NOT REMOVE THIS CLASS.
  */
-
 class Crab {
     // 🦀
+}
+
+// This script will also work along side Cargo and Make to compile all crabs.
+
+tasks.register("Crab") {
+    doLast {
+        println "🦀"
+    }
 }

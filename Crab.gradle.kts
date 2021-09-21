@@ -8,7 +8,8 @@
  * expect you to go next, followed by the rest of humanity, and finally all of reality.
  * Once again, DO NOT REMOVE THIS CLASS.
  */
-
 class Crab {
     // 🦀
 }
+
+// this is the settings file

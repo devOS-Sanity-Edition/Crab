@@ -1,5 +1,3 @@
-use devos::tanuki_engine::crab;
-
 /**
  * This is an extremely vital class. This class is crucial for the correct functionality of
  * Tanuki Engine. This is extremely important, and cannot be removed under any circumstances.
@@ -11,6 +9,6 @@ use devos::tanuki_engine::crab;
  * Once again, DO NOT REMOVE THIS CLASS.
  */
 
-fn crab() {
+struct Crab {
     // 🦀
-};
+}

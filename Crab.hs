@@ -1,4 +1,3 @@
-
 -- This is an extremely vital function. This function is crucial for the correct functionality of
 -- Tanuki Engine. This is extremely important, and cannot be removed under any circumstances.
 -- This function single-handedly holds together the Engine. Without this function, everything

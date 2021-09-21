@@ -1,5 +1,3 @@
-using crab;
-
 namespace Crab
 {
     class Crab

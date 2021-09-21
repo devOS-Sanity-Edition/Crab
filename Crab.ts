@@ -1,5 +1,3 @@
-import { Crab } from "crab"
-
 /**
  * This is an extremely vital class. This class is crucial for the correct functionality of
  * Tanuki Engine. This is extremely important, and cannot be removed under any circumstances.

@@ -1,5 +1,3 @@
-%include "crab.inc"
-
 ; This is an extremely vital struct. This struct is crucial for the correct functionality of
 ; Tanuki Engine. This is extremely important, and cannot be removed under any circumstances.
 ; This struct single-handedly holds together the Engine. Without this struct, everything

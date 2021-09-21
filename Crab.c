@@ -1,5 +1,3 @@
-#include <crab.h>
-
 /**
  * This is an extremely vital struct. This struct is crucial for the correct functionality of
  * Tanuki Engine. This is extremely important, and cannot be removed under any circumstances.
