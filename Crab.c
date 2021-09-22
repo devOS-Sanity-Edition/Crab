@@ -9,6 +9,12 @@
  * Once again, DO NOT REMOVE THIS STRUCT.
  */
 
-typedef struct crab {
+#define 🦀 typedef
+#define 🦀🦀 struct
+#define 🦀🦀🦀 crab
+#define 🦀🦀🦀🦀 {
+#define 🦀🦀🦀🦀🦀 }
+
+🦀 🦀🦀 🦀🦀🦀 🦀🦀🦀🦀
         // 🦀
-} crab;
+🦀🦀🦀🦀🦀 🦀🦀🦀;
